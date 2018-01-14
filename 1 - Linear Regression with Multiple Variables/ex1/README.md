@@ -4,8 +4,8 @@ In this project linear regression was implemented on MATLAB and how it works on 
 
 Steps taken:
 
-- Linear Regression
-- Plotting the Data
-- Gradient Descent
-- Debugging
-- Visualizing J(theta)
+- 2 Linear Regression
+- 2.1 Plotting the Data
+- 2.2 Gradient Descent
+- 2.3 Debugging
+- 2.4 Visualizing J(theta)
