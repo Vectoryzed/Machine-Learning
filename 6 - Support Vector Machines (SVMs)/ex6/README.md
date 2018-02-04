@@ -1,6 +1,6 @@
 # Support Vector Machines (SVMs): project overview
 
-In this project, support vector machines (SVMs) will be used to build a spam classifer.
+In this project, support vector machines (SVMs) have been used to build a spam classifer.
 
 Major steps taken:
 
