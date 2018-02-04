@@ -1,6 +1,6 @@
 # Linear Regression with Multiple Variables: project overview
 
-In this project linear regression was implemented on MATLAB and how it works on data has been showed.
+In this project linear regression has been implemented on MATLAB and how it works on data has been showed.
 
 Major steps taken:
 
