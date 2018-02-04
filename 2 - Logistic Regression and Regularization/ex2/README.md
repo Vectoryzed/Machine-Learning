@@ -1,6 +1,6 @@
 # Logistic Regression and Regularization: project overview
 
-In this project logistic regression was implemented on MATLAB and how it applies to two different datasets has been showed.
+In this project logistic regression has been implemented on MATLAB and how it applies to two different datasets has been showed.
 
 Major steps taken:
 
