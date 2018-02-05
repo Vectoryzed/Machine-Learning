@@ -4,7 +4,7 @@ In this project logistic regression has been implemented on MATLAB and how it ap
 
 Major steps taken:
 
-- 1  -Logistic Regression
+- 1  - Logistic Regression
 - 1.1 - Visualizing the data
 - 1.2 - Implementation
 - 2 - Regularized logistic regression
