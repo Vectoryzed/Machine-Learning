@@ -1,4 +1,4 @@
-Projects from Machine Learning course on Coursera by University of Stanford.
+Projects from Machine Learning course hosted by University of Stanford.
 
 # Machine Learning (by University of Stanford)
 
